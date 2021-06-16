@@ -1,8 +1,8 @@
 ##!/usr/bin/python
 #-*- coding: utf-8 -*-
 #Developer by Bafomet and l3e86
-from module import deanon_mod
-from utils import COLORS
+import deanon_mod
+import COLORS
 #Colors
 REDL = R = "\033[0;31m"
 
