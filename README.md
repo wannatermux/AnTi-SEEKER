@@ -2,7 +2,7 @@
 
 * Установка:
 
-#### Termux
+####  * Termux
 ```
 pkg update && pkg upgrade
 pkg install git && pkg install python
@@ -11,7 +11,7 @@ cd anti-seeker
 python seeker.py
 ```
 
-#### Linux
+####  * Linux
 
 ```
 apt-get update && apt-get upgrade
