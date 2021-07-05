@@ -1,7 +1,8 @@
 # Ловим данные школоты в терминале
 
-Установка:
-# Termux
+* Установка:
+
+#### Termux
 ```
 pkg update && pkg upgrade
 pkg install git && pkg install python
