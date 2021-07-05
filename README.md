@@ -1,8 +1,8 @@
-# Ловим данные школоты в терминале
+# Anti-Seeker intercepting data
 
-* Установка:
+* Installation
 
-####  *Termux
+####  Termux
 ```
 pkg update && pkg upgrade
 pkg install git && pkg install python
@@ -11,7 +11,7 @@ cd anti-seeker
 python seeker.py
 ```
 
-####  *Linux
+####  Linux
 
 ```
 apt-get update && apt-get upgrade
@@ -20,3 +20,5 @@ git clone https://github.com/wannatermux/anti-seeker/
 cd anti-seeker
 python seeker.py
 ```
+
+> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
